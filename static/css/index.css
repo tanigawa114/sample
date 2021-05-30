@@ -1,0 +1,175 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+html, body {
+	height:100%;
+}
+
+body {
+	background-image: url(../img/back01.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	background-color: #C2DDEB;
+	color: #333333;
+	font-size: 12px;
+	font-family: "ＭＳ Ｐゴシック", Osaka, "ヒラギノ角ゴ Pro W3";
+	line-height: 18px;
+}
+
+#wrapPosition { 
+	float: left;
+	width: 1px;
+	height: 50%;
+	margin-bottom: -250px; /* mainBox高さの半分 */
+	/*	background-color: #FFFFFF;
+	*/
+}
+
+#wrap {
+	position: relative;
+	clear: left;
+	width: 752px;
+	height: 500px;
+	margin: 0px auto;
+}
+
+
+
+
+
+
+/*
+html, body {
+	background-image: url(../img/back01.png);
+	background-repeat: repeat-x;
+	background-position: left top;
+	background-color: #C2DDEB;
+	height:100%;
+	color: #333333;
+	font-size: 12px;
+	margin: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-family: "lr oSVbN", Osaka, "qMmpS Pro W3";
+}
+
+#wrap {
+	height: 100%;
+	width: 752px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+*/
+
+
+#pagebody {
+	background-image: url(../img/back02.png);
+	background-repeat: repeat-y;
+	background-position: top;
+	height: auto;
+	width: 750px;
+	padding-top: 5px;
+	padding-right: 1px;
+	padding-bottom: 5px;
+	padding-left: 1px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.header {
+	height: 76px;
+	width: 750px;
+	margin: 0px;
+	padding: 0px;
+}
+.main_img {
+	margin: 0px;
+	padding: 0px;
+	height: 220px;
+	width: 750px;
+}
+
+.footer1 {
+	margin: 0px;
+	padding: 15px;
+	font-size: 10px;
+	height: 130px;
+}
+
+#wrap #footer2 {
+	margin: 0px;
+	height: 65px;
+	background-image: url(../img/back03.png);
+	background-repeat: no-repeat;
+	background-position: top;
+	font-size: 10px;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	line-height: 12px;
+	color: #666666;
+}
+.left {
+	float: left;
+	clear: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding-bottom: 10px;
+}
+.right {
+	float: right;
+}
+
+p {
+	padding: 0px;
+	margin-bottom: 1.5em;
+}
+
+
+a:link {
+	color: #415E92;
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #5C75A1;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #73BE1E;
+}
+
+a:active {
+	text-decoration: underline;
+	color: #415E92;
+}
+#eco {
+	width: 450px;
+	line-height: 12px;
+	color: #666666;
+	border: 1px dotted #CCCCCC;
+	display: block;
+	float: left;
+	margin: 0px;
+	padding: 10px;
+}
+#eco .left {
+	margin: 0px;
+	padding: 0px;
+}
+#eco p {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}

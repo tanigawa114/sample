@@ -1,0 +1,80 @@
+@charset "utf-8";
+#business_body .b_left {
+	display: block;
+	margin: 0px;
+	width: 250px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#business_body .w_left {
+	display: block;
+	margin: 0px;
+	position: relative;
+	width: 125px;
+	clear: left;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 9em;
+	background-image: url(../business/achieve/img/web.png);
+	background-repeat: no-repeat;
+	background-position: 20px center;
+}
+#business_body .c_left {
+	display: block;
+	margin: 0px;
+	position: relative;
+	width: 125px;
+	clear: left;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 9em;
+	background-image: url(../business/achieve/img/control.png);
+	background-repeat: no-repeat;
+	background-position: 20px center;
+}
+#business_body .o_left {
+	display: block;
+	margin: 0px;
+	position: relative;
+	width: 125px;
+	clear: left;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 9em;
+	background-image: url(../business/achieve/img/open.png);
+	background-repeat: no-repeat;
+	background-position: 20px center;
+}
+#business_body .cs_left {
+	display: block;
+	margin: 0px;
+	position: relative;
+	width: 125px;
+	clear: left;
+	float: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 9em;
+	background-image: url(../business/achieve/img/consul.png);
+	background-repeat: no-repeat;
+	background-position: 20px center;
+}
+#business_body .right {
+	float: none;
+	clear: none;
+	margin-bottom: 5px;
+}
+#business_body {
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}

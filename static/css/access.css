@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+
+#access_body dl {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 2px;
+}
+
+#access_body dt {
+	margin: 0px;
+	padding: 0px;
+	text-indent: 0em;
+}
+#mainbody .map {
+	font-size: 10px;
+	padding-bottom: 50px;
+}
+
+#access_body dd {
+	margin-left: 40px;
+	margin-top: -27px;
+	line-height: 30px;
+}

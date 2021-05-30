@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+
+#business_body dl {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 50px;
+	margin-left: 2px;
+}
+
+#business_body dt {
+	margin: 0px;
+	font-weight: bold;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 1.5em;
+	background-image: url(../img/list02.png);
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+#business_body dd {
+	line-height: 20px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	padding-left: 1.5em;
+}
+#business_body {
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+#business_box {
+	padding: 10px;
+	border: 1px solid #CCCCCC;
+	background-color: #E3E3E3;
+	margin-bottom: 50px;
+}
+#business_box ol {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	list-style-position: inside;
+}
+#business_box li {
+	margin: 0px;
+	padding: 0px;
+}
+#mainbody h3 {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
